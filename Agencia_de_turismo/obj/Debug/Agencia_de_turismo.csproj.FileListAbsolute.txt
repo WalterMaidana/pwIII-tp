@@ -30,3 +30,35 @@ C:\Users\WalterAriel\documents\visual studio 2012\Projects\Agencia_de_turismo\Ag
 C:\Users\WalterAriel\documents\visual studio 2012\Projects\Agencia_de_turismo\Agencia_de_turismo\obj\Debug\Agencia_de_turismo.csprojResolveAssemblyReference.cache
 C:\Users\WalterAriel\documents\visual studio 2012\Projects\Agencia_de_turismo\Agencia_de_turismo\obj\Debug\Agencia_de_turismo.dll
 C:\Users\WalterAriel\documents\visual studio 2012\Projects\Agencia_de_turismo\Agencia_de_turismo\obj\Debug\Agencia_de_turismo.pdb
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\Agencia_de_turismo.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\Agencia_de_turismo.pdb
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\Antlr3.Runtime.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\Newtonsoft.Json.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\System.Web.Helpers.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\System.Web.Mvc.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\System.Web.Optimization.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\System.Web.Razor.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\System.Web.WebPages.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\System.Web.WebPages.Razor.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\WebGrease.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\Antlr3.Runtime.pdb
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\Newtonsoft.Json.xml
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\System.Web.Optimization.xml
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\System.Web.Helpers.xml
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\System.Web.Mvc.xml
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\System.Web.Razor.xml
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\System.Web.WebPages.xml
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\System.Web.WebPages.Razor.xml
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\es\System.Web.Razor.resources.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\obj\Debug\Agencia_de_turismo.csprojResolveAssemblyReference.cache
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\obj\Debug\Agencia_de_turismo.dll
+C:\Users\WalterAriel\Agencia_de_turismo\Agencia_de_turismo\obj\Debug\Agencia_de_turismo.pdb
